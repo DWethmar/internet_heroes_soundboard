@@ -1,0 +1,16 @@
+{
+    "sounds":[
+        {
+            "name":"Haha bier",
+            "file":"/sounds/haha_bier.mp3"
+        },
+        {
+            "name":"Fuck society",
+            "file":"/sounds/fuck_society.mp3"
+        },
+        {
+            "name":"Beker",
+            "file":"/sounds/ik_schijt_in_je_beker.mp3"
+        }
+    ]
+}
