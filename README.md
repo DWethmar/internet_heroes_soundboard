@@ -1,4 +1,4 @@
 # internet_heroes_soundboard
-internet_heros_soundboard
+Sounds from across the wide web.
 
 [Demo](http://internet_heroes_soundboard.branchdev.nl)
