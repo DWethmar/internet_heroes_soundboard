@@ -15,6 +15,10 @@
         {
             "name":"Coco",
             "file":"sounds/Im_in_love_with_the_coco.mp3"
+        },
+        {
+            "name":"Red mij",
+            "file":"sounds/red_mij.mp3"
         }
     ]
 }
