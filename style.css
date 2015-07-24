@@ -10,3 +10,17 @@ body {
 .sound.template {
     display: none;
 }
+
+.sound {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+}
+.sound:hover {
+    background-color: black;
+}
+
+.sound audio {
+    display: none;
+}
