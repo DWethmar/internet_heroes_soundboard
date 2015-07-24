@@ -30,7 +30,7 @@
                         $element.find('h1').html(val.name);
                         $element.find('source').attr(val.file);
 
-                        items.push($element.innerHTML);
+                        items.push($element.html());
                     });
                     $('.sounds').append(items.join( "" ));
                 }).fail(function() {
