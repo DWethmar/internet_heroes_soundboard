@@ -28,9 +28,10 @@
 
                         $element = $( ".sound.template" ).clone();
                         $element.find('h1').html(val.name);
-                        $element.find('source').attr(val.file);
-
-                        items.push($element.html());
+                        $element.find('source').attr('src', val.file);
+                        $element.removeClass('template');
+                        
+                        items.push($element[0].outerHTML);
                     });
                     $('.sounds').append(items.join( "" ));
                 }).fail(function() {

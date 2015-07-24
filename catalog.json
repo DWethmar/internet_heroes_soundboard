@@ -2,15 +2,19 @@
     "sounds":[
         {
             "name":"Haha bier",
-            "file":"/sounds/haha_bier.mp3"
+            "file":"sounds/haha_bier.mp3"
         },
         {
             "name":"Fuck society",
-            "file":"/sounds/fuck_society.mp3"
+            "file":"sounds/fuck_society.mp3"
         },
         {
             "name":"Beker",
-            "file":"/sounds/ik_schijt_in_je_beker.mp3"
+            "file":"sounds/ik_schijt_in_je_beker.mp3"
+        },
+        {
+            "name":"Coco",
+            "file":"sounds/Im_in_love_with_the_coco.mp3"
         }
     ]
 }
