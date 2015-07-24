@@ -30,7 +30,8 @@
                         $element.find('span').html(val.name);
                         $element.find('source').attr('src', val.file);
                         $element.removeClass('template');
-                        
+                        $element.css('background-image', 'url(' + val.image + ')');
+
                         items.push($element[0].outerHTML);
                     });
                     $('.sounds').append(items.join( "" ));

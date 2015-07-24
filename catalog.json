@@ -2,23 +2,28 @@
     "sounds":[
         {
             "name":"Haha bier",
-            "file":"sounds/haha_bier.mp3"
+            "file":"sounds/haha_bier.mp3",
+            "image":"images/bier.jpg"
         },
         {
             "name":"Fuck society",
-            "file":"sounds/fuck_society.mp3"
+            "file":"sounds/fuck_society.mp3",
+            "image":"images/robot.jpg"
         },
         {
             "name":"Beker",
-            "file":"sounds/ik_schijt_in_je_beker.mp3"
+            "file":"sounds/ik_schijt_in_je_beker.mp3",
+            "image":"images/melk.png"
         },
         {
             "name":"Coco",
-            "file":"sounds/Im_in_love_with_the_coco.mp3"
+            "file":"sounds/Im_in_love_with_the_coco.mp3",
+            "image":"images/poeder.jpg"
         },
         {
             "name":"Red mij",
-            "file":"sounds/red_mij.mp3"
+            "file":"sounds/red_mij.mp3",
+            "image":"images/gevaar.jpg"
         }
     ]
 }
